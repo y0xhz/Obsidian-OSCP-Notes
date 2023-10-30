@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "f0adb445ad9dc405",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ca6a92f228276e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "749aeb3c8de4715a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Gathering/Active.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00fe98f58fb47811",
+    "type": "split",
+    "children": [
+      {
+        "id": "14485d4be13f2fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14243daf21131254",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6cb0282d19a0da6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bc879e75fc02681",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b0ab2f7d7dad5a82",
+    "type": "split",
+    "children": [
+      {
+        "id": "1432a4c6a40597c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5b506ed1453218e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Gathering/Active.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ac9f12fce3efbd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Gathering/Active.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eaf05b24458ce163",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85e5842a8b07b841",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Gathering/Active.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "749aeb3c8de4715a",
+  "lastOpenFiles": [
+    "README.md",
+    "Information Gathering/Passive.md",
+    "Information Gathering/Active.md",
+    "Miscellaneous.md",
+    "TODO.md",
+    "Port Forwading and tunneling.md",
+    "File Transfers.md",
+    "Client-Side Attacks.md",
+    "Privesc/Service and Process Enumeration.md",
+    "Privesc/Windows Privesc.md",
+    "Privesc/PostgreQL.md",
+    "Privesc/MySQL.md",
+    "Privesc/MSSQL.md",
+    "Privesc/Linux Privesc.md",
+    "Reverse Shell/Windows.md",
+    "Reverse Shell/Linux.md",
+    "Enumeration Web/LFI & RFI.md",
+    "Active Directory/Attacking AD.md",
+    "Active Directory/Attack.md",
+    "Enumeration Web/Web (80,443).md",
+    "Active Directory/Automated Enumeration.md",
+    "Active Directory/Enumeration.md",
+    "Active Directory/Lateral Movement.md",
+    "Enumeration/SMB.md",
+    "Enumeration/FTP.md",
+    "Enumeration Web/SQLI.md",
+    "Reverse Shell",
+    "Active Directory",
+    "Privesc",
+    "Enumeration Web",
+    "BruteForce",
+    "Enumeration",
+    "Information Gathering"
+  ]
+}
